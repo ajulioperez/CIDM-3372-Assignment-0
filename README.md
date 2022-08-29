@@ -1,1 +1,1 @@
-# My HTML resume CIDM 3372 Assignment 0
+# CIDM 3372 Assignment 0 My HTML resume 
